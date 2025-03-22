@@ -8,7 +8,7 @@ Draw back your arrow, aim carefully, and release to hit the target. Score points
 ---
 
 ## 🔗 Live Demo  
-➡️ [Play the Game on GitHub Pages](https://hassanhaseen.github.io/ArcheryGame/)  
+➡️ [Play the Game Live](https://hassanhaseen.github.io/ArcheryGame/)  
 
 ---
 
@@ -24,10 +24,11 @@ Draw back your arrow, aim carefully, and release to hit the target. Score points
 ---
 
 ## 🛠️ Tech Stack
-- HTML5
-- CSS3
-- JavaScript (Vanilla)
-- GSAP (GreenSock Animation Platform)
+
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 
 ---
 
