@@ -32,7 +32,7 @@ Draw back your arrow, aim carefully, and release to hit the target. Score points
 ---
 
 ## 🙌 Credits
-- Developed by [Your Name](https://github.com/hassanhaseen)  
+- Developed by [Hassan Haseen](https://github.com/hassanhaseen)  
 - Inspired by archery games and SVG animations
 
 ---
