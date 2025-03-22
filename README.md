@@ -1,5 +1,7 @@
 # 🎯 ArcheryGame
 
+<img src="https://i.imgur.com/Lg20qVq.png" alt="Archery Game Logo" width=150 align="right" />
+
 A simple and fun archery game built with **HTML**, **CSS**, **JavaScript**, and **GSAP** animations.  
 Draw back your arrow, aim carefully, and release to hit the target. Score points by hitting the bullseye!
 
