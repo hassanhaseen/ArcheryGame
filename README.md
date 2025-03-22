@@ -21,11 +21,6 @@ Draw back your arrow, aim carefully, and release to hit the target. Score points
 
 ---
 
-## 📸 Screenshots  
-*(Add screenshots or a gameplay GIF here if you have one!)*
-
----
-
 ## 🛠️ Tech Stack
 - HTML5
 - CSS3
